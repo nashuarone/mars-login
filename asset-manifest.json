@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mars-login/static/css/main.b0b983d4.css",
+    "main.js": "/mars-login/static/js/main.236d54af.js",
+    "static/js/787.cc504721.chunk.js": "/mars-login/static/js/787.cc504721.chunk.js",
+    "index.html": "/mars-login/index.html",
+    "main.b0b983d4.css.map": "/mars-login/static/css/main.b0b983d4.css.map",
+    "main.236d54af.js.map": "/mars-login/static/js/main.236d54af.js.map",
+    "787.cc504721.chunk.js.map": "/mars-login/static/js/787.cc504721.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0b983d4.css",
+    "static/js/main.236d54af.js"
+  ]
+}
